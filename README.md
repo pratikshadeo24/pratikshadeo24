@@ -1,7 +1,8 @@
-## Hi there 👋
-
-<!--
-**pratikshadeo24/pratikshadeo24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi , I'm Pratiksha Deodhar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Software+Developer; Data+Engineer></a>
+</p>
+<hr/>
 
 Here are some ideas to get you started:
 
