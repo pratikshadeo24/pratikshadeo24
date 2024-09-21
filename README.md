@@ -8,8 +8,9 @@
    <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px />
 </div>
 <strong>About me</strong>
-<img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px />
+<img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px" />
 <br>
+
 * A passionate Software Engineer and Data Engineer, with hands-on experience in cloud computing and big data technologies.
 * Skilled in building scalable applications using AWS, GCP, React, Python, and Django.
 * I enjoy exploring new technical challenges and love engaging in social work.
