@@ -95,17 +95,13 @@
     ![PyCharm](https://img.shields.io/badge/PyCharm%20-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 
 <br>
-
 </p>
 
-<br>
 <br>
 
 -----
 
 <br>
-<br>
-
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
@@ -115,7 +111,7 @@
 
 <li>
 <a href="www.linkedin.com/in/pratikshadeo24" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xpratikshadeodhar-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  Pratiksha-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -123,7 +119,7 @@
 
 <li>
 <a href="mailto:pratikshadeo24@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  Pratiksha-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
