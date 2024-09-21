@@ -4,14 +4,18 @@
 </p>
 <hr/>
 
-Here are some ideas to get you started:
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
+
+- A passionate Software Engineer and Data Engineer, with hands-on experience in cloud computing and big data technologies.
+Skilled in building scalable applications using AWS, GCP, React, Python, and Django.
+- I enjoy exploring new technical challenges and love engaging in social work.
+- Currently expanding my expertise in web development.
+- Personal website: [link](http://www.pratiksha-deodhar.com)
+- I’m open to internships or full-time opportunities. Check out my resume [my resume](https://drive.google.com/file/d/1XpFmY0GC-epYP8bYj9FoD2digc4DLAjK/view?usp=sharing)
+
+
+<br><br>
