@@ -6,8 +6,7 @@
 
 <div style="display: inline-block;">
    <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px />
-</div>
-**About me**
+</div>**About me**
 <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px />
 
 <br>
