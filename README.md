@@ -44,6 +44,13 @@
 
 <br>
 
+- **Databases**:
+
+    ![MySQL](https://img.shields.io/badge/MySQL%20-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<br>
+
 - **Big Data Technologies**:
 
     ![Hadoop](https://img.shields.io/badge/Hadoop%20-%2326BDEB.svg?style=for-the-badge&logo=apache-hadoop&logoColor=white)
@@ -56,21 +63,38 @@
     
 <br>
 
-- **Softwares and Tools**:
+- **Cloud Platforms**:
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+    ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+    ![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+   
+<br>
+
+- **DevOps**:
+
+    ![Terraform](https://img.shields.io/badge/Terraform%20-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)
+    ![Docker](https://img.shields.io/badge/Docker%20-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+    ![Kubernetes](https://img.shields.io/badge/Kubernetes%20-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+    ![Jenkins](https://img.shields.io/badge/Jenkins%20-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 <br>
 
-- **Extras**:
+- **Visualization Tools**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+    ![Tableau](https://img.shields.io/badge/Tableau%20-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
+    ![Looker](https://img.shields.io/badge/Looker%20-%23280AE1.svg?style=for-the-badge&logo=looker&logoColor=white)
 
+<br>
+
+- **Softwares and Tools**:
+
+    ![Git](https://img.shields.io/badge/Git%20-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![Jira](https://img.shields.io/badge/Jira%20-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+    ![Trello](https://img.shields.io/badge/Trello%20-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
+    ![VSCode](https://img.shields.io/badge/VSCode%20-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![PyCharm](https://img.shields.io/badge/PyCharm%20-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
+
+<br>
 
 </p>
 
