@@ -30,20 +30,29 @@
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Scala](https://img.shields.io/badge/Scala%20-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+    ![SQL](https://img.shields.io/badge/SQL%20-%23007396.svg?style=for-the-badge&logo=sql&logoColor=white)
 
 <br>   
     
-- **Front-End Development**:
+- **Web Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![React](https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+   ![Django](https://img.shields.io/badge/Django%20-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+   ![Flask](https://img.shields.io/badge/Flask%20-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 <br>
 
-- **Cloud Hosting**:
+- **Big Data Technologies**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Hadoop](https://img.shields.io/badge/Hadoop%20-%2326BDEB.svg?style=for-the-badge&logo=apache-hadoop&logoColor=white)
+    ![MapReduce](https://img.shields.io/badge/MapReduce%20-%23FF8C00.svg?style=for-the-badge&logo=apache&logoColor=white)
+    ![Apache Spark](https://img.shields.io/badge/Apache%20Spark%20-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
+    ![Sqoop](https://img.shields.io/badge/Sqoop%20-%230099CC.svg?style=for-the-badge&logo=apache&logoColor=white)
+    ![Hive](https://img.shields.io/badge/Hive%20-%23FFDE00.svg?style=for-the-badge&logo=apache-hive&logoColor=black)
+    ![PySpark](https://img.shields.io/badge/PySpark%20-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
+    ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka%20-%23023131.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
     
 <br>
 
