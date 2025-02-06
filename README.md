@@ -7,7 +7,7 @@
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30px" />
 
 # About Me  
-🚀 Hi, I’m **Pratiksha Deodhar**, a **Software Engineer & Data Engineer** passionate about building **scalable applications**, **big data pipelines**, and **cloud-native solutions**.  
+🚀 **Software & Data Engineer** passionate about building **scalable applications**, **big data pipelines**, and **cloud-native solutions**.  
 
 💡 With hands-on experience in **AWS, GCP, and Azure**, I specialize in **backend development, data engineering, and cloud computing**. My expertise spans **React, Node.js, Express.js, Python, Spark, Hadoop, SQL, and Terraform**.  
 
