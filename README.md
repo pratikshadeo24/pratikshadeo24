@@ -17,8 +17,6 @@
 
 🌱 Currently expanding my knowledge in **web development, system design, and advanced data engineering** while contributing to **open-source projects**.  
 
----
-
 ## 🛠️ **Technical Skills**
 
 ### **Languages**:
@@ -58,7 +56,6 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes%20-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins%20-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
----
 
 ## **Key Projects**
 - 🎓 **[E-Learning Platform](https://github.com/pratikshadeo24/E-Learning-Platform)** 
@@ -67,13 +64,11 @@
 - 🔒 **[Data Censor Pipeline](https://github.com/pratikshadeo24/DataCensor-Pipeline)** 
 - 🔍 **[Job Scraper](https://github.com/pratikshadeo24/Job-Scraper)**
 
----
 
 ## **Community & Interests**
 - 👩‍💻 Member of **Women in Computer Science and Engineering (WICSE) and Rewriting the Code (RTC)**
 - ❤️ Passionate about **coding and contributing to open-source**  
 
----
 
 ## **Let's Connect!**
 - 🌐 **Personal Website**: [![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://www.pratiksha-deodhar.com)
