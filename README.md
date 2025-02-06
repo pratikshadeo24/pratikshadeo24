@@ -37,12 +37,10 @@
 
 ### **Databases**:
 ![MySQL](https://img.shields.io/badge/MySQL%20-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB%20-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### **Big Data Technologies**:
 ![Hadoop](https://img.shields.io/badge/Hadoop%20-%2326BDEB.svg?style=for-the-badge&logo=apache-hadoop&logoColor=white)
-![MapReduce](https://img.shields.io/badge/MapReduce%20-%23FF8C00.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark%20-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Sqoop](https://img.shields.io/badge/Sqoop%20-%230099CC.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Hive](https://img.shields.io/badge/Hive%20-%23FFDE00.svg?style=for-the-badge&logo=apache-hive&logoColor=black)
