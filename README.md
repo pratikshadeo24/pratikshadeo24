@@ -71,7 +71,7 @@
 
 ## **Community & Interests**
 - 👩‍💻 Member of **Women in Computer Science and Engineering (WICSE) and Rewriting the Code (RTC)**
-- ❤️ Passionate about **mentoring, social work, and contributing to open-source**  
+- ❤️ Passionate about **coding and contributing to open-source**  
 
 ---
 
